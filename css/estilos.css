@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.nav-wrapper {
+    background: black;
+}
+
+.card-panel {
+    padding: 50px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Hanalei&display=swap');
+
+.brand-logo {
+    font-family: 'Hanalei', cursive;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface&display=swap');
+
+.letra {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.size{
+    font-size: 45px;
+}
